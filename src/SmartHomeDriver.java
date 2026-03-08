@@ -9,7 +9,7 @@ public class SmartHomeDriver {
         bulb1.turnOn();
         bulb1.setColour("red");
 
-        SmartBulb bulb2 = new SmartBulb(false, "Red");
+        SmartBulb bulb2 = new SmartBulb(false, "Red!!!");
 
 
         SmartBulb bulbArray[]= new SmartBulb[2];
